@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj": {}
+    "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj": {
+    "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj",
+        "projectUniqueName": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj",
         "projectName": "ICA01-TrekLight",
-        "projectPath": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj",
+        "projectPath": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\ICA01-TrekLight.csproj",
         "packagesPath": "C:\\Users\\jmanc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\ICA (Assignments)\\ICA01-TrekLight\\obj\\",
+        "outputPath": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

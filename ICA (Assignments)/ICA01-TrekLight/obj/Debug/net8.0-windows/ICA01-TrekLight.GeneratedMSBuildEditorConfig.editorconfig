@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ICA01_TrekLight
-build_property.ProjectDir = C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300\ICA (Assignments)\ICA01-TrekLight\
+build_property.ProjectDir = C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300\Github\CMPE2300-E02\ICA (Assignments)\ICA01-TrekLight\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
