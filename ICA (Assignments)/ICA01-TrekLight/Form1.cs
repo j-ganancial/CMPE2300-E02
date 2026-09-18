@@ -1,3 +1,11 @@
+/* Program: ICA01 - TrekLamps
+ * Description - construct a class that acts like one of those highly
+                 informational lights seen on Star Trek ( TOS )
+ * Date:    Jan 26, 2026
+ * Author:  Jemuel G.
+ * Course:  CMPE2300 - Object Based Programming
+ * Class:   A01
+ */
 using GDIDrawer;
 using System.IO;
 
@@ -63,7 +71,7 @@ namespace ICA01_TrekLight
                 return;
             switch (e.KeyCode)
             {
-                case Keys.NumPad0:
+                case Keys.D1:
 
                     int half = _lights.Length / 2;
 
@@ -85,7 +93,7 @@ namespace ICA01_TrekLight
                         );
                     }
                     break;
-                case Keys.NumPad1:
+                case Keys.D2:
                     for (int i = 0; i < _lights.Length; i++)
                     {
                         if (_lights[i] == null)
@@ -94,7 +102,7 @@ namespace ICA01_TrekLight
                         }
                     }
                     break;
-                case Keys.Add:
+                case Keys.D3:
                     for (int i = _lights.Length - 1; i >= 0; i--)
                     {
                         if (_lights[i] == null)
@@ -104,7 +112,7 @@ namespace ICA01_TrekLight
                         }
                     }
                     break;
-                case Keys.Subtract:
+                case Keys.D4:
                     for (int i = _lights.Length - 1; i >= 0; i--)
                     {
                         if (_lights[i] != null)
@@ -114,7 +122,7 @@ namespace ICA01_TrekLight
                         }
                     }
                     break;
-                case Keys.Multiply:
+                case Keys.D5:
                     while (true)
                     {
                         int index = _rand.Next(_lights.Length);
