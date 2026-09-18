@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|c:\\users\\jmanc\\desktop\\cnt term 3\\cmpe 2300\\github\\cmpe2300-e02\\ica (assignments)\\ica01-treklight\\treklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|solutionrelative:treklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|c:\\users\\jmanc\\desktop\\cnt term 3\\cmpe 2300\\github\\cmpe2300-e02\\ica (assignments)\\ica01-treklight\\treklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8670D72-1301-4A58-86E2-145130B43C10}|ICA01-TrekLight.csproj|solutionrelative:treklight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,13 +26,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TrekLight.cs",
               "DocumentMoniker": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\TrekLight.cs",
               "RelativeDocumentMoniker": "TrekLight.cs",
               "ToolTip": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\TrekLight.cs",
               "RelativeToolTip": "TrekLight.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T23:34:04.418Z",
               "EditorCaption": ""
@@ -45,21 +45,22 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-15T23:25:26.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\jmanc\\Desktop\\CNT Term 3\\CMPE 2300\\Github\\CMPE2300-E02\\ICA (Assignments)\\ICA01-TrekLight\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
-              "WhenOpened": "2026-09-15T23:25:26.34Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:25:26.34Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

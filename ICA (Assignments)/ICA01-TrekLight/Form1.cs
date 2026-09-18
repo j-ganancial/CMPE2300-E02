@@ -1,10 +1,11 @@
-/* Program: ICA01 - TrekLamps
- * Description - construct a class that acts like one of those highly
-                 informational lights seen on Star Trek ( TOS )
- * Date:    Jan 26, 2026
+/* Program: ICA01 - TrekLight
+ * Description - create a class that behaves like one of the informational
+                    lights seen on Star Trek: The Original Series
+ * Date:    September 17, 2026
  * Author:  Jemuel G.
  * Course:  CMPE2300 - Object Based Programming
- * Class:   A01
+ * Class:   E02
+ * Submission code: 1241_2300_A01
  */
 using GDIDrawer;
 using System.IO;
@@ -13,10 +14,10 @@ namespace ICA01_TrekLight
 {
     public partial class Form1 : Form
     {
-        private TrekLight[] _lights = null;
-        private CDrawer _drawer = null;
-        private System.Windows.Forms.Timer _timer = new System.Windows.Forms.Timer();
-        private Random _rand = new Random();
+        private TrekLight[] _lights = null;     //Array of _lights, initially null
+        private CDrawer _drawer = null;         //Cdrawer member initialiozed to null
+        private System.Windows.Forms.Timer _timer = new System.Windows.Forms.Timer();   //Timer initialized
+        private Random _rand = new Random();    //Random object
         public Form1()
         {
             InitializeComponent();
@@ -33,7 +34,7 @@ namespace ICA01_TrekLight
 
         private void Form1_Shown(object? sender, EventArgs e)
         {
-            _drawer = new CDrawer(800, 500);
+            _drawer = new CDrawer(800, 500);    //set Drawing window to
 
             _drawer.ContinuousUpdate = false;
             _drawer.Scale = 50;
