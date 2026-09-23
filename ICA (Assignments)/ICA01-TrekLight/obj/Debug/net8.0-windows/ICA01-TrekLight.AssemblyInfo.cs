@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ICA01-TrekLight")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ad8e3c1e919d625a18dbab5ac977d201198329d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ICA01-TrekLight")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ICA01-TrekLight")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

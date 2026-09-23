@@ -34,26 +34,28 @@ namespace ICA01_TrekLight
 
         private void Form1_Shown(object? sender, EventArgs e)
         {
-            _drawer = new CDrawer(800, 500);    //set Drawing window to
+            _drawer = new CDrawer(800, 500);    //set Drawing window size
 
-            _drawer.ContinuousUpdate = false;
+            _drawer.ContinuousUpdate = false;   //continuous update set to false
             _drawer.Scale = 50;
 
-            int numLights = _drawer.ScaledWidth * _drawer.ScaledHeight;
+            int numLights = _drawer.ScaledWidth * _drawer.ScaledHeight; //number of lights within the scaledwidth and height
 
-            _lights = new TrekLight[numLights];
+            _lights = new TrekLight[numLights]; //lights array 
 
             _drawer.Position = new Point(
                 Location.X + Width,
                 Location.Y
-            );
+            ); //set drawr positoin
 
-            Activate();
+            Activate(); //focus on the form
         }
 
         private void UI_TImer_Tick(object? sender, EventArgs e)
         {
-            _drawer.Clear();
+            _drawer.Clear();                            //clears drawer
+
+            //for loop of the lights and render
             for (int i = 0; i < _lights.Length; i++)
             {
                 if (_lights[i] != null)
@@ -68,8 +70,10 @@ namespace ICA01_TrekLight
 
         private void Form1_KeyDown(object? sender, KeyEventArgs e)
         {
+            //verify if_lights is null, if true, return
             if (_lights == null)
                 return;
+            //switch case code for each keys
             switch (e.KeyCode)
             {
                 case Keys.D1:
