@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>jemuelG_ICA03_Static_Balls_of_Fun</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="GDIDrawer">
+      <HintPath>..\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\GDIDrawer\GDIDrawer.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

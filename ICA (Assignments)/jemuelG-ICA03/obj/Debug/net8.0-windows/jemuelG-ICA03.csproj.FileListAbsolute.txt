@@ -1,0 +1,39 @@
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.exe
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.deps.json
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.runtimeconfig.json
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.pdb
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\bin\Debug\net8.0-windows\GDIDrawer.dll
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.AssemblyReference.cache
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG_ICA03_Static_Balls_of_Fun.Form1.resources
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.GenerateResource.cache
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.AssemblyInfoInputs.cache
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.AssemblyInfo.cs
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.CoreCompileInputs.cache
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.sourcelink.json
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-.BAB5B255.Up2Date
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\refint\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.pdb
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.genruntimeconfig.cache
+C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA03\obj\Debug\net8.0-windows\ref\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.exe
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.deps.json
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.runtimeconfig.json
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\jemuelG-ICA03.pdb
+C:\Users\jmanc\Desktop\jemuelG-ICA03\bin\Debug\net8.0-windows\GDIDrawer.dll
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.AssemblyReference.cache
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG_ICA03_Static_Balls_of_Fun.Form1.resources
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.GenerateResource.cache
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.AssemblyInfoInputs.cache
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.AssemblyInfo.cs
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.csproj.CoreCompileInputs.cache
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-.BAB5B255.Up2Date
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\refint\jemuelG-ICA03.dll
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.pdb
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\jemuelG-ICA03.genruntimeconfig.cache
+C:\Users\jmanc\Desktop\jemuelG-ICA03\obj\Debug\net8.0-windows\ref\jemuelG-ICA03.dll
