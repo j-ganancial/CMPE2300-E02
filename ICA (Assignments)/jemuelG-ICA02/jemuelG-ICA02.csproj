@@ -11,7 +11,7 @@
 
   <ItemGroup>
     <Reference Include="GDIDrawer">
-      <HintPath>..\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\GDIDrawer\GDIDrawer.dll</HintPath>
+      <HintPath>..\..\GDIDrawer\GDIDrawer.dll</HintPath>
     </Reference>
   </ItemGroup>
 

@@ -8,17 +8,17 @@
     ".NETCoreApp,Version=v8.0": {
       "jemuelG-ICA03/1.0.0": {
         "dependencies": {
-          "GDIDrawer": "1.5.0.0"
+          "GDIDrawer": "1.4.0.9"
         },
         "runtime": {
           "jemuelG-ICA03.dll": {}
         }
       },
-      "GDIDrawer/1.5.0.0": {
+      "GDIDrawer/1.4.0.9": {
         "runtime": {
           "GDIDrawer.dll": {
-            "assemblyVersion": "1.5.0.0",
-            "fileVersion": "1.5.0.0"
+            "assemblyVersion": "1.4.0.9",
+            "fileVersion": "1.4.0.9"
           }
         }
       }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "GDIDrawer/1.5.0.0": {
+    "GDIDrawer/1.4.0.9": {
       "type": "reference",
       "serviceable": false,
       "sha512": ""

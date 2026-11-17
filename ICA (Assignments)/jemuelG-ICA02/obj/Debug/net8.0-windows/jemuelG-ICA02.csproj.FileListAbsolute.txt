@@ -38,3 +38,23 @@ C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-
 C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.pdb
 C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.genruntimeconfig.cache
 C:\Users\jmanc\Desktop\CNT Term 3\CMPE 2300 Github\cmpe2300-1252-a01submissions-j-ganancial\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\ref\jemuelG-ICA02.dll
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG_ICA02_Bouncy.Form1.resources
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.csproj.GenerateResource.cache
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.AssemblyInfoInputs.cache
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.AssemblyInfo.cs
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.csproj.CoreCompileInputs.cache
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.sourcelink.json
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.dll
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\refint\jemuelG-ICA02.dll
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.pdb
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\jemuelG-ICA02.exe
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\jemuelG-ICA02.deps.json
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\jemuelG-ICA02.runtimeconfig.json
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\jemuelG-ICA02.dll
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\jemuelG-ICA02.pdb
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\bin\Debug\net8.0-windows\GDIDrawer.dll
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.csproj.AssemblyReference.cache
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-.BAB5B216.Up2Date
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\jemuelG-ICA02.genruntimeconfig.cache
+C:\Users\jganancial2\Desktop\CMPE 2300\CMPE2300-E02\ICA (Assignments)\jemuelG-ICA02\obj\Debug\net8.0-windows\ref\jemuelG-ICA02.dll

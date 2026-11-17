@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jemuelG_ICA04")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bf7d8175e9fb19632422b264bda4096c117dac8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a80144ced0ac72d982c5494c61c39592413ca7a")]
 [assembly: System.Reflection.AssemblyProductAttribute("jemuelG_ICA04")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jemuelG_ICA04")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

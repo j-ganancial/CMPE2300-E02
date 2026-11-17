@@ -4,7 +4,7 @@ don’t overlap.
  * Date:    Oct 1, 2026
  * Author:  Jemuel G.
  * Course:  CMPE2300 - Object Based Programming
- * Class:   A01
+ * Class:   E02
  */
 
 using System;
@@ -15,17 +15,16 @@ namespace jemuelG_ICA04
 {
     public partial class Form1 : Form
     {
-        private List<Ball> _balls = new List<Ball>();
-        private int _ballRadius = 25;
+        private List<Ball> _balls = new List<Ball>();   //List of Balls
+        private int _ballRadius = 25; //default radius
 
-        private const int addCount = 25;
-        private const int discardLimit = 1000;
+        private const int addCount = 25;        //constant default added balls
+        private const int discardLimit = 1000;  //constant discard limit, the progress bar shows valued discarded balls
         public Form1()
         {
             InitializeComponent();
 
-            Ball.DrawerPosition =
-               new Point(this.Right + this.Right / 2, this.Top);
+            Ball.DrawerPosition = new Point(this.Right + this.Right / 2, this.Top);
 
             UI_AddBalls_Btn.Text = $"Add Balls : Radius = {_ballRadius}";
 
@@ -98,7 +97,7 @@ namespace jemuelG_ICA04
 
             Ball.Loading = false;
 
-            this.Text = $"Add Balls: {_balls.Count} Balls discarded {discarded}";
+            this.Text = $"Add Balls: balls added {added} : {_balls.Count} Balls discarded {discarded}";
         }
 
         private void Form1_KeyDown(object sender, KeyEventArgs e)

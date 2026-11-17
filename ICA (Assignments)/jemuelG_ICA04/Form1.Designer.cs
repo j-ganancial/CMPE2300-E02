@@ -45,6 +45,7 @@
             // 
             // UI_ProgressBar
             // 
+            UI_ProgressBar.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             UI_ProgressBar.Location = new Point(12, 95);
             UI_ProgressBar.Maximum = 1000;
             UI_ProgressBar.Name = "UI_ProgressBar";
